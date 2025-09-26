@@ -183,6 +183,8 @@ To execute this script, use the command:<br>
 ```bash
 python3 audio_transcribe.py pilot_voice.wav
 ```
+
+[Download the .wav file here](https://github.com/PhillipDowney/myblogs/blob/d936a24383e7254381e63ccb1110ff2de3fe1a46/assets/pilots_voice.wav)
 <br>
 
 ### Results <br>
